@@ -20,7 +20,7 @@ public class Person {
 
     public static void main(String[] args) {
         for (int i = 0; i < ; i++) {
-            
+            ggg;
         }
         if (args == null) {
             
